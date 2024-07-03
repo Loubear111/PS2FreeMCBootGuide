@@ -1,0 +1,11 @@
+PluginData = {};
+PluginData.Type = "SingleELF";
+PluginData.Category = 6;
+PluginData.Name = "Memory Card Annihilator";
+PluginData.Description = xebLang[114];
+PluginData.Version = "2.0a";
+PluginData.Icon = 96;
+PluginData.Safe = false;
+PluginData.ValueA = "mass:/PS2/APPS/MCA/mca_v20a.elf";
+PluginData.ValueB = "NONE";
+PluginData.ValueC = "NONE";
